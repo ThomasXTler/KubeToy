@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>public/images/duckX.png</name>
+			<type>1</type>
+			<location>/Users/thomas.mueller@de.ibm.com/git/KubeToy/public/images/duckX.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
