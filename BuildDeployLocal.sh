@@ -1,1 +1,1 @@
-docker build -t ibmicpcoc/kubetoy:latest .
+docker build -t kubetoy:latest .
