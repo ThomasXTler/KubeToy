@@ -2,5 +2,7 @@
 
 docker build -t ibmicpcoc/kubetoy:2.5.0 .
 docker tag ibmicpcoc/kubetoy:2.5.0 ibmicpcoc/kubetoy:latest
-docker push ibmicpcoc/kubetoy:2.5.0
-docker push ibmicpcoc/kubetoy:latest
+#!docker push ibmicpcoc/kubetoy:2.5.0
+#!docker push ibmicpcoc/kubetoy:latest
+docker push thomasxtler/kubetoy:2.5.0
+docker push thomasxtler/kubetoy:latest
